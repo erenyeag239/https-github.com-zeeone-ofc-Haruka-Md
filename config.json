@@ -1,24 +1,24 @@
 {
-    "ownerNumber": ["6282333590334@s.whatsapp.net","6282333590334@s.whatsapp.net"],
-    "ownerName": "Fabian",
+    "ownerNumber": ["2348152119668@s.whatsapp.net","2348119715215@s.whatsapp.net"],
+    "ownerName": "Bamireid",
     "instagram" : "https://instagram.com/fabian.44x",
-    "botName": "Fabian-Botz",
-    "footer": "api.zeeoneofc.xyz",
+    "botName": "Bamireids wife",
+    "footer": "At your service xD",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "Gsyt6jRJ",
-    "auto_welcomeMsg": true,
-    "auto_leaveMsg": true,    
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 50,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 100
     }
 }
